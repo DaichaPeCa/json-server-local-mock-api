@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook",
+      "price": 350,
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Pencil",
+      "price": 180,
+      "stock": 5
+    },
+    {
+      "id": 3,
+      "name": "Desk Organizer",
+      "price": 1200,
+      "stock": 0
+    }
+  ],
+  "orders": []
+}

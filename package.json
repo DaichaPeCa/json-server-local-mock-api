@@ -1,0 +1,16 @@
+{
+  "name": "local-json-server-mock",
+  "version": "1.0.0",
+  "private": true,
+  "description": "JSON Server based local mock API",
+  "scripts": {
+    "start": "node server.cjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "json-server": "0.17.4"
+  }
+}
